@@ -1,0 +1,12 @@
+// console.log(5);
+// var wight =72;
+// var reg=212;
+// var honours=14;
+// var firstName="priya";
+// var lastName="mylove";
+// var fullName= firstName + ' ' + lastName;
+// console.log(fullName);
+var num1=1;
+var num2=0.2;
+var sum= num1 * num2;
+console.log(sum);
