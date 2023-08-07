@@ -11,6 +11,7 @@ function barbieKen(string) {
         console.log("Hi barbie");
 
      }
+     
 }
 
 const stg="Shawalshahi";

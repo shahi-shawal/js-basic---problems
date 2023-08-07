@@ -8,3 +8,15 @@ function takaToDollar(num) {
 const taka=33320;
 const result=takaToDollar(taka);
 console.log(result .toFixed(2));
+
+
+let self={
+    name: "shawal",
+    age:23,
+    address: "Chattogram"
+}
+
+self.address= "chittagong";
+console.log(self);
+// output: { name: 'shawal', age: 23, address: 'chittagong' }
+
